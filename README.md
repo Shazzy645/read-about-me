@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Shazzy645
-- 👀 I’m interested in doimg nothing
+- 👀 I’m interested in doing nothing
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me - shazaad.salim15@gmail.com
