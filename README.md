@@ -1,4 +1,4 @@
-Hi! Welcome to my LinkedIn page. My name is Shazzy. I am a high school student, studying at 
+Hi! Welcome to my Github read about me. My name is Shazzy. I am a high school student, studying at 
 Al-Forsan International School. Here are some things about me:
 
 Skills:
