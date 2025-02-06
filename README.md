@@ -1,11 +1,19 @@
-- 👋 Hi, I’m @Shazzy645
-- 👀 I’m interested in doing nothing
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me - shazaad.salim15@gmail.com
-- ⚡ useless fact: your alarm in the morning is your intro song of your life
+Hi! Welcome to my LinkedIn page. My name is Shazzy. I am a high school student, studying at 
+Al-Forsan International School. Here are some things about me:
 
-<!---
-Shazzy645/Shazzy645 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Skills:
+- Public Speaking
+- Strong leadership and Team management 
+- Efficient problem solving 
+- Python programming language 
+
+Ambitions:
+- I will study Cybersecurity abroad at one of the Top 100 Universities worldwide 
+- I will get a job at one of the big tech companies 
+- I will achieve Academic Excellence by maintaining above 96% in all my school subjects.
+
+Hobbies:
+- Basketball. I am the center mostly which I play in my free time 
+- Giving back to the community. I have a passion for supporting both the poor and needy. 200+ hours given in volunteering.
+- Coding problem solving. In my free time I enjoy solving problems on leetcode or even I just problems I find online, as I enjoy the challenge and the test of my skills 
+--------------------------------------------------
